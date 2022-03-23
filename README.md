@@ -4,7 +4,5 @@ this is a test repo for training RGU Scott Sutherland School students on Git. It
 * Exercises:
  - Please clone this repository
  - Add a file
- - ask to merge
- - email Theo with any questions
-
- 
+ - Ask to merge
+ - Email Theo with any questions
