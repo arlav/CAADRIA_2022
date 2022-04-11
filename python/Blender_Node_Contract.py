@@ -96,6 +96,7 @@ def transposeList(l):
 		returnList.append(tempRow)
 	return returnList
 
+# @dev (td comment) the next part is the blockchain command from web3.py
 def processItem(item, data):
     contract_address, contract_abi, wallet_address, wallet_private_key, infura_url = item
 
